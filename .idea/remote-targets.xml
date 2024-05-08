@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="9def9e7a-2c9d-4d6d-bd84-e6e3fb4fda94">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/mnt/d/Software/JetBrains/RustRover/jbr/bin&#10;, stderr=}/rustdds_publisher" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config>
+            <option name="cargoPath" value="/snap/bin/cargo" />
+            <option name="cargoVersion" value="1.77.0 (3fe68eabf 2024-02-29)" />
+            <option name="rustcPath" value="/snap/bin/rustc" />
+            <option name="rustcVersion" value="1.77.0 (aedd173a2 2024-03-17)" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
